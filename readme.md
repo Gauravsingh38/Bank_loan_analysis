@@ -63,6 +63,4 @@ This project involves analyzing bank loan data to provide insights into lending 
 ## Conclusion
 This project highlights the importance of thorough data analysis in banking, utilizing visual tools for deeper insights into loan management. 
 
-## Contact
-For inquiries or to contribute to this project, please reach out to [Your Contact Information].
 "# Bank_loan_analysis" 
