@@ -54,6 +54,8 @@ This project involves analyzing bank loan data to provide insights into lending 
 - Optionally, provide a link in this repository for direct access to the dashboard.
 
   ![image alt](https://github.com/Gauravsingh38/Bank_loan_analysis/blob/1ff81955f9e83de10baec62043fceb0b03985fd4/Summary.png)
+  ![image alt](https://github.com/Gauravsingh38/Bank_loan_analysis/blob/951d3a474cde4f36eab531c58dce3608a3fff664/Overview.png)
+  ![image alt](https://github.com/Gauravsingh38/Bank_loan_analysis/blob/951d3a474cde4f36eab531c58dce3608a3fff664/details.png)
 
 ## Importance of Data Analysis in Banking
 - **Risk Assessment**: Evaluating borrower creditworthiness to minimize defaults.
