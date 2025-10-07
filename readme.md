@@ -53,9 +53,10 @@ This project involves analyzing bank loan data to provide insights into lending 
 - Save your Power BI file and publish it to the Power BI Service for broader access.
 - Optionally, provide a link in this repository for direct access to the dashboard.
 
-  ![image alt](https://github.com/Gauravsingh38/Bank_loan_analysis/blob/1ff81955f9e83de10baec62043fceb0b03985fd4/Summary.png)
-  ![image alt](https://github.com/Gauravsingh38/Bank_loan_analysis/blob/27a79ddcf111bb0acac6a9d4c2ae89e8444f4bc2/Overview.png)
-  ![image alt](https://github.com/Gauravsingh38/Bank_loan_analysis/blob/951d3a474cde4f36eab531c58dce3608a3fff664/details.png)
+  ![Overview](https://github.com/Gauravsingh38/Bank_loan_analysis/blob/main/Overview.png)
+  ![Summary](https://github.com/Gauravsingh38/Bank_loan_analysis/blob/main/Summary.png)
+  ![Details](https://github.com/Gauravsingh38/Bank_loan_analysis/blob/main/details.png)
+
 
 ## Importance of Data Analysis in Banking
 - **Risk Assessment**: Evaluating borrower creditworthiness to minimize defaults.
